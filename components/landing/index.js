@@ -1,0 +1,19 @@
+export { default as Navbar } from "./Navbar";
+export { default as HeroSection } from "./HeroSection";
+export { default as MainSections } from "./MainSections";
+export { default as Footer } from "./Footer";
+export { default as CartDrawer } from "./CartDrawer";
+export { default as ProductCard } from "./ProductCard";
+export { default as PromotionsSlider } from "./PromotionsSlider";
+
+export { default as TrustBadgesSection } from "./TrustBadgesSection";
+export { default as FeaturesSection } from "./FeaturesSection";
+export { default as HowItWorksSection } from "./HowItWorksSection";
+export { default as ConsultationHighlightSection } from "./ConsultationHighlightSection";
+export { default as AiShowcaseSection } from "./AiShowcaseSection";
+export { default as PreviewSection } from "./PreviewSection";
+export { default as WhyChooseSection } from "./WhyChooseSection";
+export { default as TestimonialsSection } from "./TestimonialsSection";
+export { default as StatsSection } from "./StatsSection";
+export { default as CtaSection } from "./CtaSection";
+export { default as FaqSection } from "./FaqSection";
